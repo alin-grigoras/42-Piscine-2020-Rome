@@ -1,0 +1,5 @@
+Credentials cache: API:213F4931-D04F-4AF1-A9DE-D540FD1779F8
+        Principal: agrigora@42ROMA.IT
+
+  Issued                Expires               Principal
+Oct 19 15:19:56 2020  Oct 20 01:19:47 2020  krbtgt/42ROMA.IT@42ROMA.IT
