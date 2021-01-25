@@ -7,7 +7,7 @@ Part I (Shell Exercises)
 - Shell 01 - 100% Complete
 
 Part II (C Language Exercises)
-- C 00 - 100% Complete
+- C 00 - 100% Complete https://forthebadge.com/images/badges/made-with-c.svg
 - C 01 - 100% Complete
 - C 02 - 100% Complete
 - C 03 - 100% Complete
